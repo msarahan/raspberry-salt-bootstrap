@@ -1,15 +1,22 @@
 dependencies:
   pkg.installed:
    - pkgs:
-     - build-essential
-     - curl
-     - ecryptfs-utils
-     - git
-     - keychain
-     - python-dev
-     - python-virtualenv
+     - bzr
+     - gir1.2-appindicator3-0.1
+     - gir1.2-gdkpixbuf-2.0
+     - gir1.2-glib-2.0
+     - gir1.2-gtk
+     - gir1.2-notify
+     - gir1.2-pango-1.0
+     - gir1.2-webkit-3.0
+     - imagemagick
+     - python-bs4
+     - python-cairo
+     - python-configobj
+     - python-dbus
+     - python-imaging
+     - python-lxml
+     - python-pycurl
+     - python-pyexiv2
      - supervisor
-     - tmux
-     - vim
-     - wget
-     - zsh
+     - yelp
