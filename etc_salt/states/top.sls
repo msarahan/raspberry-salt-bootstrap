@@ -1,5 +1,4 @@
 base:
   '*':
-    - dependencies
     - variety
 
